@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    }
+caption {
+    font-size: 30pt;
+     color: red;
+     }   
+Thead , tfoot {
+    background-color: #e0e0e0;
+    font-size: 18pt;
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase
+}
+     
